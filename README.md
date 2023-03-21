@@ -1,3 +1,3 @@
 # git_test
 My first GitHut repo
-hello odin
+checking whether it's working or not
